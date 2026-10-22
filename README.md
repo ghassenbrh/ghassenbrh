@@ -1,5 +1,7 @@
 # 💫 About Me:
-<img src="person_final.png" align="right" width="220" alt="Ghassen Avatar">
+<img src="person_final.png" align="left" width="200" alt="Ghassen Avatar">
+
+
 ​👋 Hi there, I'm Ghassen!<br>​I am an Embedded AI, Computer Vision, and Industrial Automation engineer based in Tunisia, currently pursuing my Master’s degree in Industry 4.0.  <br>​I’ve always been fascinated by the magic that happens when lines of code meet physical hardware—turning raw data and microcontrollers into smart, real-world machines.
 
 
