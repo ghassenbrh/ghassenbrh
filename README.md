@@ -46,6 +46,21 @@
 **🌐 Web, Databases & DevOps**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat-square&logo=streamlit&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat-square&logo=chart.js&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=InfluxDB&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat-square&logo=cmake&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white)
 
+
+## 🏆 Licenses & Certifications
+
+| Certification | Issuer | Date | Credential |
+| :--- | :--- | :--- | :--- |
+| **Deep Learning Specialization** | DeepLearning.AI | Nov 2026 | [Verify](https://coursera.org/verify/specialization/4JIOKHNAK74A) |
+| **Machine Learning Specialization** | Stanford Online & DeepLearning.AI | Nov 2026 | [Verify](https://coursera.org/verify/specialization/97NL8OU9VN77) |
+| **Certified SOLIDWORKS Design Associate (CSWA)** | Dassault Systèmes | Nov 2026 | `C-DXN6AKH72Y` |
+| **SOLIDWORKS 3D CAD for Education Specialization** | Dassault Systèmes | Nov 2026 | `478JXE4Y0F7U` |
+| **Image Processing for Engineering & Science** | MathWorks | Nov 2026 | `H615PVAUMMYZ` |
+| **CyberForge Cybersecurity Training & CTF** | ENSIT | Nov 2026 | — |
+| **Industry 4.0** | UNIDO | Oct 2026 | `AGarjrVbBS` |
+| **Quality Management (ISO 9001:2015 & TQM)** | UNIDO | Oct 2026 | `nHx6XoCst5` |
+| **Google AI Essentials Specialization** | Google | Oct 2026 | `E8Q0LV60VUJV` |
+| **English for Career Development** | U.S. Department of State | Jun 2026 | `6a35a50115bcb119fd4b1751` |
 ---
 
 <p align="center">
