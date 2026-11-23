@@ -10,6 +10,9 @@
         I’m fascinated by what happens when lines of code meet physical hardware—turning raw sensor data, neural networks, and microcontrollers into smart, real-world machines.
       </p>
       <p>
+        <a href="https://ghassenbrh.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-0d9488?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
         <a href="https://www.linkedin.com/in/ghassen-ben-rhouma-983821382/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
         <a href="mailto:ghassenbenrhouma00@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
         <a href="https://www.instagram.com/ghassen_brh"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"/></a>
