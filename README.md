@@ -1,7 +1,7 @@
 <table border="0">
   <tr>
     <td width="210" align="center" valign="middle">
-      <img src="person_final.png" width="185" alt="Ghassen Ben Rhouma" />
+      <img src="person_transparent.png" width="185" alt="Ghassen Ben Rhouma" />
     </td>
     <td valign="middle">
       <h1>👋 Hi there, I'm Ghassen!</h1>
